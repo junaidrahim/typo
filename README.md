@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/tomfran/typo/main/images/banner-light.png)
+![banner](https://raw.githubusercontent.com/junaidrahim/typo/main/images/banner-light.png)
 
 # Typo, a Hugo theme.
 
@@ -6,13 +6,13 @@ Typo is a theme backed by simplicity, as you can see in the screenshots below. T
 
 **Homepage**
 
-![1](https://raw.githubusercontent.com/tomfran/typo/main/images/1.png)
+![1](https://raw.githubusercontent.com/junaidrahim/typo/main/images/1.png)
 
 **Article**
 
-![2](https://raw.githubusercontent.com/tomfran/typo/main/images/2.png)
+![2](https://raw.githubusercontent.com/junaidrahim/typo/main/images/2.png)
 
-![3](https://raw.githubusercontent.com/tomfran/typo/main/images/3.png)
+![3](https://raw.githubusercontent.com/junaidrahim/typo/main/images/3.png)
 
 ---
 
@@ -38,12 +38,12 @@ Typo is a theme backed by simplicity, as you can see in the screenshots below. T
 
 To receive updates, add the theme as a submodule: 
 ```
-git submodule add git@github.com:tomfran/typo.git themes/typo
+git submodule add git@github.com:junaidrahim/typo.git themes/typo
 ```
 
 Otherwise, you can clone the repo and copy it manually to your theme folder.
 
-You can find a repo using this theme [here](https://github.com/tomfran/blog).
+You can find a repo using this theme [here](https://github.com/junaidrahim/blog).
 
 ## 2 Features
 

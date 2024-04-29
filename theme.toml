@@ -1,11 +1,11 @@
 name = 'Typo'
 license = 'MIT'
-licenselink = 'https://github.com/tomfran/typo/blob/main/LICENSE'
+licenselink = 'https://github.com/junaidrahim/typo/blob/main/LICENSE'
 description = 'A simple Hugo theme'
 
-homepage = 'https://github.com/tomfran/typo'
+homepage = 'https://github.com/junaidrahim/typo'
 
-demosite = 'https://tomfran.github.io/'
+demosite = 'https://junaidrahim.github.io/'
 
 tags = ["responsive", "simple", "clean", "light", "dark", "blog", "minimal"]
 
@@ -22,4 +22,4 @@ features = [
 
 [author]
 name = 'Francesco Tomaselli'
-homepage = 'https://tomfran.github.io/'
+homepage = 'https://junaidrahim.github.io/'

@@ -12,9 +12,9 @@ I have always been fascinated by search engines and their capabilities:
 finding relevant documents in a pool of millions is certainly an incredible task,
 so I decided to dive deep into this topic. This was the perfect way to start with Rust.
 
-All the code is available on my [Github](https://github.com/tomfran/search-rs)
+All the code is available on my [Github](https://github.com/junaidrahim/search-rs)
 profile, feel free to have a look.
-This article is also published on [Medium](https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8).
+This article is also published on [Medium](https://medium.com/@junaidrahim/building-a-search-engine-in-rust-c945b6e638f8).
 
 ## What is an Inverted-Index
 
