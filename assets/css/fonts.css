@@ -42,21 +42,42 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter/Inter-Light.ttf') format('ttf');
+    src: url('/fonts/Inter/Inter-Light.woff2') format('woff2');
     font-weight: light;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter/Inter-Regular.ttf') format('ttf');
+    src: url('/fonts/Inter/Inter-LightItalic.woff2') format('woff2');
+    font-weight: light;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/Inter-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter/Inter-Bold.ttf') format('ttf');
+    src: url('/fonts/Inter/Inter-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/Inter-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/Inter-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
 }
