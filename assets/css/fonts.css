@@ -27,15 +27,36 @@
 }
 
 @font-face {
-    font-family: 'Monaspace';
-    src: url('/fonts/Monaspace/MonaspaceArgon-Regular.woff') format('woff');
+    font-family: 'JetBrainsMono';
+    src: url('/fonts/JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Monaspace';
-    src: url('/fonts/Monaspace/MonaspaceArgon-SemiBold.woff') format('woff');
+    font-family: 'JetBrainsMono';
+    src: url('/fonts/JetBrainsMono/JetBrainsMono-SemiBold.woff2') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/Inter-Light.ttf') format('ttf');
+    font-weight: light;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/Inter-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/Inter-Bold.ttf') format('ttf');
     font-weight: bold;
     font-style: normal;
 }

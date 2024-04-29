@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: "Literata";
+  font-family: "Inter";
   font-size: 1rem;
   color: var(--content);
   line-height: 1.3rem;
@@ -20,12 +20,14 @@ body {
 }
 
 h1 {
+  font-family: "Literata"; 
   margin-top: var(--h1-margin-top);
   margin-bottom: var(--h1-margin-bottom);
   font-size: 2em;
 }
 
 h2 {
+  font-family: "Literata";
   margin-top: var(--h2-margin-top);
   margin-bottom: var(--h2-margin-bottom);
   font-size: 1.5em;
@@ -35,6 +37,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "Literata";  
   font-size: 1.2em;
   margin-top: var(--hx-margin-top);
   margin-bottom: var(--hx-margin-bottom);
@@ -84,7 +87,7 @@ code {
   -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
   font-variant-ligatures: contextual;
-  font-family: "Monaspace";
+  font-family: "JetBrainsMono";
   font-size: .9em;
 }
 
@@ -144,7 +147,7 @@ footer {
 }
 
 footer a {
-  font-family: "Monaspace";
+  font-family: "JetBrainsMono";
   margin-left: .2rem;
   margin-right: .2rem;
 }
@@ -168,7 +171,7 @@ footer a {
 
 .post-date {
   font-size: small;
-  font-family: "Monaspace";
+  font-family: "JetBrainsMono";
   width: 110px;
   text-align: right;
   padding-right: 1rem;
